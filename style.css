@@ -1,0 +1,33 @@
+body {
+  box-sizing: border-box;
+  margin: 5px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.form {
+  border: 2px solid salmon;
+  background-color: rgb(249, 212, 179);
+  width: 450px;
+  text-align: center;
+  margin: 0 auto;
+}
+
+label {
+  width: 165px;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+}
+
+div {
+  margin: 10px;
+}
+
+button {
+  border: 1px solid black;
+  width: 120px;
+  height: 25px;
+  border-radius: 15px;
+  margin: 18px;
+  background-color: rgb(254, 232, 206);
+}
